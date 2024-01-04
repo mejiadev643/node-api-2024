@@ -1,0 +1,13 @@
+comandos utiles
+iniciar un proyecto rapido 
+npm init --y
+
+instalar un modulo como dependencia y solamente para desarrollo
+npm i -E -D nodemon
+
+puerto por defecto 
+3000
+
+instalar libreria env para ocultar datos sensibles
+npm i dotenv
+para llamarlos se usa process.env.variable
